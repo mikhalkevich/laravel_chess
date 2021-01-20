@@ -1,0 +1,10 @@
+   body {padding:0; margin:0; background-color: #eeeeee;}
+   .box { text-align: center; background-color: #eeeeee; }
+   .centered { display: inline-block; margin: 0; }
+   .chess-board { border-spacing: 0; border-collapse: collapse; }
+   .chess-board th { padding: .5em; }
+   .chess-board td { border: 1px solid; width: 4em; height: 4em; text-align: center; vertical-align: middle; }
+   .chess-board td span {font-size:40px;}
+   .chess-board .white { background: #f0d9b5; }
+   .chess-board .black { background: #b58863; }
+   .green {background-color: aqua; color:green; cursor:pointer}
